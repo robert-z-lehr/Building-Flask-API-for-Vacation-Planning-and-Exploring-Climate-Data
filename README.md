@@ -1,4 +1,5 @@
-A climate analysis and data exploration are performed and completed for Honolulu, Hawaii, using Python, SQLAlchemy, Pandas, and Matplotlib. The analysis involves investigating precipitation and station data. A Flask API is used to provide climate-related information.
+# Trip planning to Hawaii around weather conditions
+A climate analysis and data exploration is performed for Honolulu, Hawaii, using Python, SQLAlchemy, Pandas, and Matplotlib. The analysis involves investigating precipitation and station data. A Flask API is used to provide climate-related information.
 
 Goals:
 1. __Analyze climate data:__ Use SQLAlchemy ORM (Object-Relational Mapping) queries to explore climate data, including precipitation and temperature observations.
