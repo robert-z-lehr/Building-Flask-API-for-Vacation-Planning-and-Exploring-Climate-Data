@@ -3,9 +3,9 @@ A climate analysis and data exploration is performed for Honolulu, Hawaii, using
 
 Goals:
 1. __Analyze climate data:__ Use SQLAlchemy ORM (Object-Relational Mapping) queries to explore climate data, including precipitation and temperature observations.
-  a. __Note:__ ORM queries use object-oriented programming concepts instead of raw SQL queries to interact with databases. SQLAlchemy is a Python library that provides an ORM system, allowing developers to use Python more intuitively with databases.  
-3. __Generate visualizations:__ Use the Matplotlib Python library to visualize to visualize precipitation and temperature data patterns in plots and histograms.
-4. __Develop a Flask API:__ Design API routes to retrieve climate-related information based on different queries, such as precipitation, station details, and temperature observations.
+    - . __Note:__ ORM queries use object-oriented programming concepts instead of raw SQL queries to interact with databases. SQLAlchemy is a Python library that provides an ORM system, allowing developers to use Python more intuitively with databases.  
+2. __Generate visualizations:__ Use the Matplotlib Python library to visualize to visualize precipitation and temperature data patterns in plots and histograms.
+3. __Develop a Flask API:__ Design API routes to retrieve climate-related information based on different queries, such as precipitation, station details, and temperature observations.
 
 Tools/Skills Used:
 - __Python:__ Programming language for data analysis and API development.
