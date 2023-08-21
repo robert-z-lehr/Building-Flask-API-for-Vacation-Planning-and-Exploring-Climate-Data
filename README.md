@@ -21,6 +21,5 @@ Tools/Skills Used:
 
 __Results:__ A climate analysis was performed with a functional Flask API and the results were visualized. The analysis provides insights into precipitation patterns and temperature observations, and the API enables users to retrieve specific climate data. This or a similar tool like it can be used to enhance ones' trip planning experience for a vacation in Honolulu, Hawaii.
 
-[images/precipitation_hawaii.png](https://github.com/robert-z-lehr/Building-Flask-API-for-Vacation-Planning-and-Exploring-Climate-Data/blob/afc47e559f0da641538aea87efc845b6b918c24d/images/precipitation_hawaii.png)https://github.com/robert-z-lehr/Building-Flask-API-for-Vacation-Planning-and-Exploring-Climate-Data/blob/afc47e559f0da641538aea87efc845b6b918c24d/images/precipitation_hawaii.png)
-
-[Hawaiin Temperature](images/temperature_hawaii.png)
+![Precipitation Hawaii](images/precipitation_hawaii.png)
+![Temperature Hawaii](images/temperature_hawaii.png)
