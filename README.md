@@ -1,9 +1,9 @@
 # Building Flask API for Vacation Planning and Exploring Climate Data
 
-## Educational
+## Education Purpose
 This repository is intended for educational purposes, providing a platform to practice and document data analytics and visualization skills. It contains projects and exercises designed to enhance proficiency in data analysis, visualization techniques, and related tools.
 
-## Purpose
+## Project
 A climate analysis and data exploration is performed for Honolulu, Hawaii, using Python, SQLAlchemy, Pandas, and Matplotlib. The analysis involves investigating precipitation and station data. A Flask API is used to provide climate-related information.
 
 Goals:
