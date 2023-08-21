@@ -1,4 +1,4 @@
-# Building Falk API for Vacation Planning and Exploring Climate Data
+# Building Flask API for Vacation Planning and Exploring Climate Data
 
 ## Educational
 This repository is intended for educational purposes, providing a platform to practice and document data analytics and visualization skills. It contains projects and exercises designed to enhance proficiency in data analysis, visualization techniques, and related tools.
