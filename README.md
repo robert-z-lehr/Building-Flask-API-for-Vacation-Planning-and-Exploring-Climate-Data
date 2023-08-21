@@ -20,3 +20,7 @@ Tools/Skills Used:
 - __Flask:__ Python library to create a framework for creating the API and defining routes to serve climate-related data.
 
 __Results:__ A climate analysis was performed with a functional Flask API and the results were visualized. The analysis provides insights into precipitation patterns and temperature observations, and the API enables users to retrieve specific climate data. This or a similar tool like it can be used to enhance ones' trip planning experience for a vacation in Honolulu, Hawaii.
+
+[Hawaiin Precipitation](images/precipitation-hawaii.png)
+
+[Hawaiin Temperature](images/temperature-hawaii.png)
