@@ -1,4 +1,4 @@
-# Import required modules and classes
+# Import Dependencies
 from flask import Flask, jsonify
 from sqlalchemy import create_engine, func
 from sqlalchemy.ext.automap import automap_base
